@@ -1,6 +1,6 @@
-### Olá! 👋
+### Hello! 👋
 
-☕ Desenvolvedor Java em formação ☕
+☕ Java developer in training ☕
 
 <div align="center">
   <a href="https://github.com/fernandine">
