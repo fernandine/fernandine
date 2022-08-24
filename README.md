@@ -24,7 +24,5 @@
  <a href="https://discord.gg/Fernandine#0471" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:jfernandine@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Fernandine&bg_color=000000&color=c2a200&line=c2a200&point=ffffff&area=true&hide_border=true)](https://github.com/fernandine)
   </div>
 
